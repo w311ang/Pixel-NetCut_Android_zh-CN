@@ -1,38 +1,48 @@
-VNC Viewer (Android) 汉化
+Pixel NetCut (Android) 汉化
 ===========================
-为`VNC Viewer`倾情制作的汉化版本，侧栏菜单帮助等地都已经汉化，可~~放心食用~~。*他喵的，我竟然不小心把库删了，还好本地有备份，不过还是得努力恢复下[`README.md`](/readme.md)。*
+通过 `GitHub` 上的一位大神([@xxxyanchenxxx](https://github.com/xxxyanchenxxx))发出来的[骚操作](#破解(签名验证)信息)，成功破解了应用的签名验证。同样以相同的方式应该还可以破解更多类似的(例如[`Minecraft PE`](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)的`Xbox 登录`因重新签名而无法使用)签名验证，实属佩服。
 ****
 |类型|内容|
 |--|--
 |图标|![](res/drawable-xxxhdpi-v4/icon.png)
-|应用名|VNC Viewer
-|包名|com.realvnc.viewer.android
+|应用名|Pixel NetCut
+|包名|pixel.com.netcut
 |语言|英语
-|版本号|3.5.0.40825
-|开发者|[RealVNC Limited](https://www.realvnc.com)
-|更新日期|2019 年 3 月 26 日
-|体积|12 MB
+|版本号|1.0.46
+|开发者|[Pixel Group](http://pixelitcapps.com/pixelnetcut/)
+|更新日期|2017 年 8 月 9 日
+|体积|8.3 MB
 ****
 应用市场
 ------
 |市场|地址|
 |--|--
-|Google Play (官方)|https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
-|APKPure|https://apkpure.com/cn/com.realvnc.viewer.android
-|豌豆荚|https://www.wandoujia.com/apps/com.realvnc.viewer.android
-|应用宝|https://sj.qq.com/myapp/detail.htm?apkName=com.realvnc.viewer.android
-|酷安|http://coolapk.com/apk/com.realvnc.viewer.android
-|手机乐园|https://soft.shouji.com.cn/down/85796.html
+|Google Play (官方)|https://play.google.com/store/apps/details?id=pixel.com.netcut
+|APKPure|https://apkpure.com/cn/pixel.com.netcut
+|豌豆荚|https://www.wandoujia.com/apps/pixel.com.netcut
+|应用宝|https://sj.qq.com/myapp/detail.htm?apkName=pixel.com.netcut
+|酷安|http://coolapk.com/apk/pixel.com.netcut
+|手机乐园|https://soft.shouji.com.cn/down/48535.html
 
 翻译信息
 ------
 |类型|内容|
 |--|--
 |语言|中文简体 (汉语)
-|体积|12.43 MB
-|更新日期|2019 年 5 月 23 日
+|体积|8.39 MB
+|更新日期|2019 年 5 月 25 日
 |主要翻译人员|润智RZ ([@w311ang](https://github.com/w311ang))
-|类型|Google 翻译 + 个人修改
+|使用项目/工具|[`MT 管理器`](http://binmt.cc)([`Google 翻译`](https://translate.google.com))
+|类型|机器翻译 + 较验修正
+>以上均是修改后取得的数据。
+
+破解(签名验证)信息
+------
+|类型|内容|
+|--|--
+|体积|8.37 MB
+|更新日期|2019 年 5 月 25 日
+|使用项目/工具|[`MT 管理器`](http://binmt.cc)(Dex编辑器++)、[`SigKill`](https://github.com/xxxyanchenxxx/SigKill)
 >以上均是修改后取得的数据。
 
 翻译进度
@@ -40,10 +50,9 @@ VNC Viewer (Android) 汉化
 |部分|完成情况|备注
 |--|--|--
 |主界面|:heavy_check_mark: 已完成|-
-|HTML 帮助|:heavy_check_mark: 已完成|-
-|电脑操控界面|:heavy_check_mark: 已完成|-
-|连接界面|:x: 未完成 (95%)|有一些字符串找不到翻译点，请求高人指点。
-|通知|:heavy_check_mark: 已完成|-
+|设备详细信息|:x: 未完成 (98%)|顶部选择框未找到字符串可供汉化。
+|底部🍞(面包)提示|:x: 未完成 (0%)|未找到字符串可供汉化。
+|应用内弹出提示框|:x: 未完成 (99%)|一些选项未找到字符串可供汉化。
 
 MT 管理器字典
 ------
@@ -68,8 +77,8 @@ MT 管理器字典
 ------
 |论坛|贴子标题/摘要|
 |--|:--:
-|[酷安](https://www.coolapk.com/)|[帮你汉化了最新版，……](https://www.coolapk.com/feed/10403694)
-|[手机乐园](http://shouji.com.cn)|- 暂无 -
+|[酷安](https://www.coolapk.com/)|- 暂无 -
+|[手机乐园](http://shouji.com.cn)|[填以前汉化的坑了，……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1511681)
 |[葫芦侠 3 楼](http://huluxia.com/)|- 暂无 -
 |[全下世界](http://www.iqxsj.com/)|- 暂无 -
 |[百度贴吧](https://tieba.baidu.com/)|- 暂无 -
