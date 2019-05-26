@@ -1,6 +1,6 @@
 VNC Viewer (Android) 汉化
 ===========================
-
+为`VNC Viewer`倾情制作的汉化版本，侧栏菜单帮助等地都已经汉化，可~~放心食用~~。*他喵的，我竟然不小心把库删了，还好本地有备份，不过还是得努力恢复下[`README.md`](/readme.md)。*
 ****
 |类型|内容|
 |--|--
@@ -56,13 +56,13 @@ MT 管理器字典
 |[GitHub](https://github.com/yunles/VNC-Viewer-Android-chinese/releases/download/2019.05.23/VNC_Viewer_20190523.apk)|推荐，更新速度较快，国内用户下载速度较慢。
 |[蓝奏云](https://www.lanzous.com/b743556/) (密码: `eiyd`)|更新速度不如前者，但下载速度更快。
 |[百度网盘](https://pan.baidu.com/s/1x8wMq2xPjH8CE0dpxAPmTQ) (密码: `yunl`)|可保存到自己网盘收藏备用。
-|[微云](https://share.weiyun.com/5u0ijHC) (密码: `xv9q6n`)|可直接分享给 QQ 好友。
+|[微云](https://share.weiyun.com/5u0ijHC) (密码: `xv9q6n`)|可直接分享给`QQ 好友`。
 |[Google Drive](https://drive.google.com/open?id=165SdLUBD-JxSzHPMpOlmzATmiPNn3bfs)|国外用户可用，国内用户需要科学上网。
 ### 各版本命名规则
 |类型|格式|
 |--|--
-|已修改版本|[应用名](#vnc-viewer-android-汉化) + `_` + [翻译为语言](#翻译信息) + `_` + `v` + [版本号](#vnc-viewer-android-汉化) + `_` + [翻译更新日期](#翻译信息)
-|未修改版本|[应用名](#vnc-viewer-android-汉化) + `_` + `v` + [版本号](#vnc-viewer-android-汉化)
+|已翻译版本|*[应用名](#vnc-viewer-android-汉化)*`_`*[翻译为的语言](#翻译信息)*`_v`*[版本号](#vnc-viewer-android-汉化)*`_`*[翻译更新日期](#翻译信息)*
+|未修改版本|*[应用名](#vnc-viewer-android-汉化)*`_v`*[版本号](#vnc-viewer-android-汉化)*
 
 发布地
 ------
