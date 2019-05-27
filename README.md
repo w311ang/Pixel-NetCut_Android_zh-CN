@@ -1,3 +1,4 @@
+# (Beta 仓库 试验中……)
 Pixel NetCut (Android) 汉化
 ===========================
 通过 `GitHub` 上的一位大神([@xxxyanchenxxx](https://github.com/xxxyanchenxxx))发出来的[骚操作](https://github.com/xxxyanchenxxx/SigKill)，成功破解了应用的签名验证。同样以相同的方式应该还可以破解更多类似的(例如[`Minecraft PE`](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)的`Xbox 登录`因重新签名而无法使用)签名验证，实属佩服。
