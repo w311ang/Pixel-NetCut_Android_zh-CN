@@ -4,7 +4,7 @@ Pixel NetCut (Android) 汉化
 ****
 |类型|内容|
 |--|--
-|图标|![](res/mipmap-xxxhdpi-v4/ic_launcher.png)
+|图标|![](res/drawable-xxxhdpi-v4/icon.png)
 |应用名|Pixel NetCut
 |包名|pixel.com.netcut
 |语言|英语 `en`
@@ -38,6 +38,8 @@ Pixel NetCut (Android) 汉化
 
 破解(签名验证)信息
 ------
+因为此破解方式仅修改/添加 [dex 文件](/classes.dex)中的 smali 文件即可达到破解目的，所以仅放出破解后的 [dex 文件](/classes_only.dex)。
+
 |类型|内容|
 |--|--
 |体积|8.37 MB
@@ -67,18 +69,6 @@ MT 管理器字典
 |[百度网盘](https://pan.baidu.com/s/1x8wMq2xPjH8CE0dpxAPmTQ) (密码: `yunl`)|采用至少 48 小时内跟进的更新模式，可保存到自己的百度网盘。
 |[微云](https://share.weiyun.com/5u0ijHC) (密码: `xv9q6n`)|采用至少 1 周内跟进的更新模式，可直接分享给自己的`QQ 好友`。
 |[Google Drive](https://drive.google.com/open?id=165SdLUBD-JxSzHPMpOlmzATmiPNn3bfs)|采用至少 1 周内跟进的更新模式，仅境外用户可用。
-### MD5 值校验码
-|文件名|MD5 值|
-|--|--
-|Pixel-NetCut_Chinese_v1.0.46_20190525.apk|- 待计算 -
-|Pixel-NetCut_only_v1.0.46_20180324.apk|- 待计算 -
-|Pixel-NetCut_v1.0.46.apk|- 待计算 -
-### 各版本命名规则
-|类型|格式|
-|--|--
-|已翻译版本|*[应用名](#pixel-netcut-android-汉化)*`_`*[翻译为的语言](#翻译信息)*`_v`*[版本号](#pixel-netcut-android-汉化)*`_`*[翻译更新日期](#翻译信息)*
-|只破解`签名验证`版本|*[应用名](#pixel-netcut-android-汉化)*`_only_v`*[版本号](#pixel-netcut-android-汉化)*`_`*[破解更新日期](#破解签名验证信息)*
-|未修改版本|*[应用名](#pixel-netcut-android-汉化)*`_v`*[版本号](#pixel-netcut-android-汉化)*
 
 发布地
 ------
