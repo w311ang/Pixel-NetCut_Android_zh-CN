@@ -67,6 +67,12 @@ MT 管理器字典
 |[百度网盘](https://pan.baidu.com/s/1x8wMq2xPjH8CE0dpxAPmTQ) (密码: `yunl`)|采用至少 48 小时内跟进的更新模式，可保存到自己的百度网盘。
 |[微云](https://share.weiyun.com/5u0ijHC) (密码: `xv9q6n`)|采用至少 1 周内跟进的更新模式，可直接分享给自己的`QQ 好友`。
 |[Google Drive](https://drive.google.com/open?id=165SdLUBD-JxSzHPMpOlmzATmiPNn3bfs)|采用至少 1 周内跟进的更新模式，仅境外用户可用。
+### MD5值校验码
+|文件名|MD5值|
+|--|--
+|Pixel-NetCut_Chinese_v1.0.46_20190525.apk|- 未计算 -
+|Pixel-NetCut_only_v1.0.46_20180324.apk|- 未计算 -
+|Pixel-NetCut_v1.0.46.apk|- 未计算 -
 ### 各版本命名规则
 |类型|格式|
 |--|--
