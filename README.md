@@ -1,6 +1,6 @@
 Pixel NetCut (Android) 汉化
 ===========================
-通过 `GitHub` 上的一位大神([@xxxyanchenxxx](https://github.com/xxxyanchenxxx))发出来的[骚操作](#破解签名验证信息)，成功破解了应用的签名验证。同样以相同的方式应该还可以破解更多类似的(例如[`Minecraft PE`](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)的`Xbox 登录`因重新签名而无法使用)签名验证，实属佩服。
+通过 `GitHub` 上的一位大神([@xxxyanchenxxx](https://github.com/xxxyanchenxxx))发出来的[骚操作](https://github.com/xxxyanchenxxx/SigKill)，成功破解了应用的签名验证。同样以相同的方式应该还可以破解更多类似的(例如[`Minecraft PE`](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)的`Xbox 登录`因重新签名而无法使用)签名验证，实属佩服。
 ****
 |类型|内容|
 |--|--
@@ -78,7 +78,7 @@ MT 管理器字典
 ------
 |论坛|贴子标题/摘要|
 |--|:--:
-|[酷安](https://www.coolapk.com/)|[已汉化，……]https://www.coolapk.com/feed/11897674
+|[酷安](https://www.coolapk.com/)|[已汉化，……](https://www.coolapk.com/feed/11897674)
 |[手机乐园](http://shouji.com.cn)|[时隔多年，……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1511575)、[填以前汉化的坑了，……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1511681)
 |[葫芦侠 3 楼](http://huluxia.com/)|- 暂无 -
 |[全下世界](http://www.iqxsj.com/)|- 暂无 -
