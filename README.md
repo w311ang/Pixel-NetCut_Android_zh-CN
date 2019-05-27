@@ -4,7 +4,7 @@ Pixel NetCut (Android) 汉化
 ****
 |类型|内容|
 |--|--
-|图标|![](res/drawable-xxxhdpi-v4/icon.png)
+|图标|![](res\mipmap-xxxhdpi-v4\ic_launcher.png)
 |应用名|Pixel NetCut
 |包名|pixel.com.netcut
 |语言|英语 `en`
