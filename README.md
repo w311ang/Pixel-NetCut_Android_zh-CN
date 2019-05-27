@@ -1,13 +1,13 @@
 Pixel NetCut (Android) 汉化
 ===========================
-通过 `GitHub` 上的一位大神([@xxxyanchenxxx](https://github.com/xxxyanchenxxx))发出来的[骚操作](#破解(签名验证)信息)，成功破解了应用的签名验证。同样以相同的方式应该还可以破解更多类似的(例如[`Minecraft PE`](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)的`Xbox 登录`因重新签名而无法使用)签名验证，实属佩服。
+通过 `GitHub` 上的一位大神([@xxxyanchenxxx](https://github.com/xxxyanchenxxx))发出来的[骚操作](#破解签名验证信息)，成功破解了应用的签名验证。同样以相同的方式应该还可以破解更多类似的(例如[`Minecraft PE`](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)的`Xbox 登录`因重新签名而无法使用)签名验证，实属佩服。
 ****
 |类型|内容|
 |--|--
 |图标|![](res/drawable-xxxhdpi-v4/icon.png)
 |应用名|Pixel NetCut
 |包名|pixel.com.netcut
-|语言|英语
+|语言|英语 `en`
 |版本号|1.0.46
 |开发者|[Pixel Group](http://pixelitcapps.com/pixelnetcut/)
 |更新日期|2017 年 8 月 9 日
@@ -28,13 +28,13 @@ Pixel NetCut (Android) 汉化
 ------
 |类型|内容|
 |--|--
-|语言|中文简体 (汉语)
+|语言|中文(简体) `zh-CN`
 |体积|8.39 MB
 |更新日期|2019 年 5 月 25 日
 |主要翻译人员|润智RZ ([@w311ang](https://github.com/w311ang))
 |使用项目/工具|[`MT 管理器`](http://binmt.cc)([`Google 翻译`](https://translate.google.com))
 |类型|机器翻译 + 较验修正
->以上均是修改后取得的数据。
+>以上是修改后的数据。
 
 破解(签名验证)信息
 ------
@@ -43,7 +43,7 @@ Pixel NetCut (Android) 汉化
 |体积|8.37 MB
 |更新日期|2019 年 5 月 25 日
 |使用项目/工具|[`MT 管理器`](http://binmt.cc)(Dex编辑器++)、[`SigKill`](https://github.com/xxxyanchenxxx/SigKill)
->以上均是修改后取得的数据。
+>以上是修改后的数据。
 
 翻译进度
 ------
