@@ -23,6 +23,7 @@ Pixel NetCut (Android) 汉化
 |应用宝|https://sj.qq.com/myapp/detail.htm?apkName=pixel.com.netcut
 |酷安|http://coolapk.com/apk/pixel.com.netcut
 |手机乐园|https://soft.shouji.com.cn/down/48535.html
+|Mobilism|https://soft.shouji.com.cn/down/48535.html
 
 翻译信息
 ------
@@ -77,8 +78,8 @@ MT 管理器字典
 ------
 |论坛|贴子标题/摘要|
 |--|:--:
-|[酷安](https://www.coolapk.com/)|- 暂无 -
-|[手机乐园](http://shouji.com.cn)|[填以前汉化的坑了，……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1511681)
+|[酷安](https://www.coolapk.com/)|[]https://www.coolapk.com/feed/11897674
+|[手机乐园](http://shouji.com.cn)|[时隔多年，……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1511575)、[填以前汉化的坑了，……](http://tt.shouji.com.cn/app/faxianshow.jsp?id=1511681)
 |[葫芦侠 3 楼](http://huluxia.com/)|- 暂无 -
 |[全下世界](http://www.iqxsj.com/)|- 暂无 -
 |[百度贴吧](https://tieba.baidu.com/)|- 暂无 -
