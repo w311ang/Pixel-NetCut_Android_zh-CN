@@ -71,6 +71,7 @@ MT 管理器字典
 |类型|格式|
 |--|--
 |已翻译版本|*[应用名](#pixel-netcut-android-汉化)*`_`*[翻译为的语言](#翻译信息)*`_v`*[版本号](#pixel-netcut-android-汉化)*`_`*[翻译更新日期](#翻译信息)*
+|只破解`签名验证`版本|*[应用名](#pixel-netcut-android-汉化)*`_only_v`*[版本号](#pixel-netcut-android-汉化)*`_`*[破解更新日期](#破解签名验证信息)*
 |未修改版本|*[应用名](#pixel-netcut-android-汉化)*`_v`*[版本号](#pixel-netcut-android-汉化)*
 
 发布地
