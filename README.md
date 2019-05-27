@@ -70,9 +70,9 @@ MT 管理器字典
 ### MD5 值校验码
 |文件名|MD5 值|
 |--|--
-|Pixel-NetCut_Chinese_v1.0.46_20190525.apk|- 未计算 -
-|Pixel-NetCut_only_v1.0.46_20180324.apk|- 未计算 -
-|Pixel-NetCut_v1.0.46.apk|- 未计算 -
+|Pixel-NetCut_Chinese_v1.0.46_20190525.apk|- 待计算 -
+|Pixel-NetCut_only_v1.0.46_20180324.apk|- 待计算 -
+|Pixel-NetCut_v1.0.46.apk|- 待计算 -
 ### 各版本命名规则
 |类型|格式|
 |--|--
